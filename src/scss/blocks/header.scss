@@ -1,7 +1,14 @@
 .header {
     background-color: white;
+
+    &_container{
+        
+    }
     width: 375px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 24px 24px 112px 24px
+
+
 }
